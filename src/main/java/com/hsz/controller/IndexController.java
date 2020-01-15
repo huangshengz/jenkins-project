@@ -13,6 +13,6 @@ public class IndexController {
 
     @GetMapping("/hi")
     public String hi(){
-        return "Hi,welcome to this system!";
+        return "这是第二次上次代码呀，哈哈哈哈!";
     }
 }
